@@ -1,9 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Zayar Htoo</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wg7OBpBu5L0y9X1mqA/giphy.gif" width="200"/>
-</p>
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ4eDNrb3JtY2NqaW5qanF1dmExemQ1ajlwYzVpazFtdzQyZWh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvruQGkO8UeD3B1pW1/giphy.gif" width="200"/> 
+  </p>
 
 ---
 
@@ -74,4 +73,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day+👋" alt="Typing SVG" />
 </p>
-
