@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Zayar Htoo</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/someSampleGif.gif" width="300"/> 
+  <img src="https://tenor.com/my/view/work-computer-gif-9810614" width="300"/> 
 </p>
 
 ---
