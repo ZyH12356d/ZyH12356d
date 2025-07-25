@@ -44,13 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyH12356d&layout=compact&theme=tokyonight&hide_border=true" alt="Zayar's Top Languages" />
 </p>
 
----
 
-## 📫 Let's Connect
-
-- ✉️ Email: *your.email@example.com*
-- 💼 Portfolio: *coming soon...*
-
----
 
 > _“Learning never exhausts the mind.” – Leonardo da Vinci_
