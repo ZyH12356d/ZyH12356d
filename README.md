@@ -3,13 +3,12 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 I'm from **Myanmar (Burma)**
-- 💼 Currently working on **.NET & Blazor Web App projects**
-- 🚀 Passionate about **building clean, scalable software**
-- 🌱 Always learning **new tech** to level up my skills
-- 🎯 My goal is to become a **Full-Stack .NET Engineer**
-- ⚡ Fun fact: I learn best by **building and breaking things!**
-
+* 💻 **.NET & Blazor Developer:** Currently working on web applications and projects.
+* 🚀 **Passion:** Building clean, scalable software.
+* 🌱 **Learning:** Always leveling up my skills by exploring new technologies.
+* 🎯 **Goal:** To become a **Full-Stack .NET Engineer**.
+* ⚡ **Learning Style:** I learn best by building and breaking things.
+  
 ---
 
 ## 💻 Tech Stack
