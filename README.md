@@ -1,61 +1,75 @@
-<h1 align="center">Hi there 👋, I'm Zayar Htoo</h1>
-<h3 align="center">💻 Passionate Developer | Currently working with <span style="color:#5C2D91;"><strong>C# / .NET</strong></span></h3>
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on enterprise projects using **C# / .NET 8** and **Blazor Server**
-- 🌱 I’m continuously learning new things about software architecture, clean code & performance
-- 💡 I have experience with **Java MVC**, **Spring Boot**, and **Angular** in previous projects
-- 📦 I enjoy building both backend services and full-stack applications
-- 🧠 Love clean architecture, modular code, and meaningful documentation
-- ✨ Open to learning, collaborating, and building cool stuff!
-
----
-
-### 🛠️ Tech Stack
-
-| 💻 Languages | ⚙️ Backend | 🌐 Frontend | 🛢️ Database | 🔧 Tools |
-|-------------|------------|-------------|-------------|----------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) <br> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hey there 👋, I'm Zayar Htoo</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayarhtoo&show_icons=true&theme=tokyonight&hide_title=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayarhtoo&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGgwZ3R4N3B2aThjOHJmcXJ4MHhnMHhxM3R3ZnA2aG4yaThkYzVwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wg7OBpBu5L0y9X1mqA/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning
+## 👨‍💻 About Me
 
-- ✅ Clean Architecture with .NET
-- ✅ Advanced Blazor Component Development
-- ✅ GitHub Actions & CI/CD pipelines
-- 🕹️ System Design & Performance Tuning
+- 🌍 I'm from **Myanmar (Burma)**
+- 💼 Currently working on **.NET & Blazor Web App projects**
+- 🚀 Passionate about **building clean, scalable software**
+- 🌱 Always learning **new tech** to level up my skills
+- 🎯 My goal is to become a **Full-Stack .NET Engineer**
+- ⚡ Fun fact: I learn best by **building and breaking things!**
 
 ---
 
-### 📫 Connect with Me
+## 💻 Tech Stack
 
+### 🧠 Languages & Frameworks
 <p align="left">
-  <a href="https://github.com/zayarhtoo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:zayarhtoo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ---
 
-<!-- Optional footer note -->
+## 📊 GitHub Stats
+
 <p align="center">
-  🧩 Always curious | 🚀 Always improving | ☕ Let's build something amazing
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZyH12356d&theme=tokyonight&hide_border=true" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZyH12356d&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyH12356d&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: *-*
+- 🌐 Portfolio: *Coming Soon*
+- ✉️ Email: *xotharnge@gmail.com*
+
+---
+
+## ✨ Quote I Like
+
+> “Learning never exhausts the mind.” – *Leonardo da Vinci*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day+👋" alt="Typing SVG" />
 </p>
