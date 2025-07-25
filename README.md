@@ -1,8 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Zayar Htoo</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGgwZ3R4N3B2aThjOHJmcXJ4MHhnMHhxM3R3ZnA2aG4yaThkYzVwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wg7OBpBu5L0y9X1mqA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
+
 
 ---
 
