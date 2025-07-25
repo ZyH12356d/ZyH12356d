@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-* 💻 **.NET & Blazor Developer:** Currently working on web applications and projects.
+* 💻 **.NET Developer:** Currently working on web applications and projects.
 * 🚀 **Passion:** Building clean, scalable software.
 * 🌱 **Learning:** Always leveling up my skills by exploring new technologies.
 * 🎯 **Goal:** To become a **Full-Stack .NET Engineer**.
