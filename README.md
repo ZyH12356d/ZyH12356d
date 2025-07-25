@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Zayar Htoo</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ4eDNrb3JtY2NqaW5qanF1dmExemQ1ajlwYzVpazFtdzQyZWh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvruQGkO8UeD3B1pW1/giphy.gif" width="200"/> 
+  <div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614">Work Computer GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </p>
 
 ---
